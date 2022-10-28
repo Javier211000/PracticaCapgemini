@@ -1,0 +1,6 @@
+package com.example.proyecto_player
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
